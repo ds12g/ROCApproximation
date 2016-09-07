@@ -1,1 +1,2 @@
 # ROCApproximation
+This program was used to approximate the radius of curvature of a constant length rectangular film with tranlational force. I used a brute force method to solve the equation. The results are generated on a text file, which i then plotted on Igor Pro. I have added a .png file with the model and the comparison to the actual film used. The results are not perfect, but they are a decent approximation.
